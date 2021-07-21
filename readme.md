@@ -6,7 +6,7 @@
 
 前端界的好文精读，每周更新！
 
-最新精读：<a href="./前沿技术/195.精读《新一代前端构建工具对比》.md">195.精读《新一代前端构建工具对比》</a>
+最新精读：<a href="./算法/203.精读《算法 - 二叉搜索树》.md">203.精读《算法 - 二叉搜索树》</a>
 
 素材来源：[周刊参考池](https://github.com/ascoders/weekly/issues/2)
 
@@ -158,6 +158,9 @@
 - <a href="./前沿技术/193.精读《React Server Component》.md">193.精读《React Server Component》</a>
 - <a href="./前沿技术/194.精读《算法基础数据结构》.md">194.精读《算法基础数据结构》</a>
 - <a href="./前沿技术/195.精读《新一代前端构建工具对比》.md">195.精读《新一代前端构建工具对比》</a>
+- <a href="./前沿技术/196.精读《前端职业规划 - 2021 年》.md">196.精读《前端职业规划 - 2021 年》</a>
+- <a href="./前沿技术/197.精读《低代码逻辑编排》.md">197.精读《低代码逻辑编排》</a>
+- <a href="./前沿技术/202.精读《React 18》.md">202.精读《React 18》</a>
 
 ### 设计模式
 
@@ -208,7 +211,7 @@
 - <a href="./源码解读/110.精读《Inject Instance 源码》.md">110.精读《Inject Instance 源码》</a>
 - <a href="./源码解读/122.精读《robot 源码 - 有限状态机》.md">122.精读《robot 源码 - 有限状态机》</a>
 - <a href="./源码解读/128.精读《Hooks 取数 - swr 源码》.md">128.精读《Hooks 取数 - swr 源码》</a>
-- <a href="./源码解读/130.精读《unstated 与 unstated-next 源码》 copy.md">130.精读《unstated 与 unstated-next 源码》 copy</a>
+- <a href="./源码解读/130.精读《unstated 与 unstated-next 源码》.md">130.精读《unstated 与 unstated-next 源码》</a>
 - <a href="./源码解读/151. 精读《@umijs use-request》源码.md">151. 精读《@umijs use-request》源码</a>
 - <a href="./源码解读/155. 精读《use-what-changed 源码》.md">155. 精读《use-what-changed 源码》</a>
 - <a href="./源码解读/156. 精读《react-intersection-observer 源码》.md">156. 精读《react-intersection-observer 源码》</a>
@@ -226,6 +229,14 @@
 - <a href="./商业思考/135.精读《极客公园 IFX - 上》.md">135.精读《极客公园 IFX - 上》</a>
 - <a href="./商业思考/136.精读《极客公园 IFX - 下》.md">136.精读《极客公园 IFX - 下》</a>
 - <a href="./商业思考/137.精读《当我在分享的时候，我在做什么？》.md">137.精读《当我在分享的时候，我在做什么？》</a>
+
+### 算法
+
+- <a href="./算法/198.精读《算法 - 动态规划》.md">198.精读《算法 - 动态规划》</a>
+- <a href="./算法/199.精读《算法 - 滑动窗口》.md">199.精读《算法 - 滑动窗口》</a>
+- <a href="./算法/200.精读《算法 - 回溯》.md">200.精读《算法 - 回溯》</a>
+- <a href="./算法/201.精读《算法 - 二叉树》.md">201.精读《算法 - 二叉树》</a>
+- <a href="./算法/203.精读《算法 - 二叉搜索树》.md">203.精读《算法 - 二叉搜索树》</a>
 
 ## 关注前端精读微信公众号
 
